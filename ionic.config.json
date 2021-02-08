@@ -1,0 +1,7 @@
+{
+  "name": "kidapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
